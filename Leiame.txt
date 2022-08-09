@@ -4,3 +4,7 @@ Após checar as configurações em Git config --list
 
 Git init  => Inicia o projeto do Git
 
+Git add . => Gera status para todos os arquivos um status 
+
+Git commit -m "mensagem" => Vai gerar o primeiro commit para os arquivo (estados dos arquivos)
+
