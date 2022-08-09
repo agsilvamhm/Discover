@@ -1,0 +1,6 @@
+** Projeto utilizando o Guit de linha de comando **
+
+Após checar as configurações em Git config --list
+
+Git init  => Inicia o projeto do Git
+
